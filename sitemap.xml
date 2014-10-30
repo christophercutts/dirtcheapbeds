@@ -1,0 +1,51 @@
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+ <!-- home page -->
+ <url>
+  <loc>http://www.dirtcheapbeds.com/</loc>
+  <lastmod><?php echo date('Y-m-d'); ?></lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.5</priority>
+ </url>
+ <!-- about us -->
+ <url>
+  <loc>http://www.dirtcheapbeds.com/about-us</loc>
+  <lastmod><?php echo date('Y-m-d'); ?></lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.5</priority>
+ </url>
+ <!-- location -->
+ <url>
+  <loc>http://www.dirtcheapbeds.com/location</loc>
+  <lastmod><?php echo date('Y-m-d'); ?></lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.5</priority>
+ </url>
+ <!-- delivery info -->
+ <url>
+  <loc>http://www.dirtcheapbeds.com/delivery</loc>
+  <lastmod><?php echo date('Y-m-d'); ?></lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.5</priority>
+ </url>
+  <!-- testimonials -->
+ <url>
+  <loc>http://www.dirtcheapbeds.com/testimonials</loc>
+  <lastmod><?php echo date('Y-m-d'); ?></lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.5</priority>
+ </url>
+  <!-- terms and conditions -->
+ <url>
+  <loc>http://www.dirtcheapbeds.com/terms</loc>
+  <lastmod><?php echo date('Y-m-d'); ?></lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.5</priority>
+ </url>
+  <!-- contact us -->
+ <url>
+  <loc>http://www.dirtcheapbeds.com/contact-us</loc>
+  <lastmod><?php echo date('Y-m-d'); ?></lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.5</priority>
+ </url>
+</urlset>
